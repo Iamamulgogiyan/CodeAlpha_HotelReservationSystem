@@ -1,6 +1,6 @@
 # CodeAlpha_HotelReservationSystem
 
-A console-based **Hotel Reservation System** built in Core Java — CodeAlpha Java Programming Internship, **Task 4**.
+A console-based **Hotel Reservation System** built in Core Java — CodeAlpha Java Programming Internship, **Task 3**.
 
 Guests can search rooms by type (Standard, Deluxe, Suite), book a room with a payment simulation, cancel a reservation, and view booking details. All bookings are saved to a file, so they survive after the program closes.
 
