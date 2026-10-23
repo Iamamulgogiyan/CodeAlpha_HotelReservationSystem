@@ -1,6 +1,6 @@
 // ============================================================
 //  HotelReservationSystem.java
-//  Main class - CodeAlpha Task 4: Hotel Reservation System
+//  Main class - CodeAlpha Task 3: Hotel Reservation System
 //  Search, book and manage hotel rooms, with payment
 //  simulation and file storage for bookings.
 // ============================================================
@@ -119,7 +119,7 @@ public class HotelReservationSystem {
     public void start() {
         System.out.println("==============================================");
         System.out.println("       HOTEL RESERVATION SYSTEM");
-        System.out.println("     CodeAlpha Task 4 - Amul Gogyan");
+        System.out.println("     CodeAlpha Task 3 - Amul Gogyan");
         System.out.println("==============================================");
         hotel.loadFromFile(SAVE_FILE);
 
